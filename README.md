@@ -56,4 +56,4 @@ Part-1:
 
 
 
-*This was createed using CLion IDE
+*This was created using CLion IDE
